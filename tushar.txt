@@ -7,10 +7,9 @@ I am an Ethical Hacker,Bug Bounty Hunter,CTF Player,Pentester and Front-End Deve
 
 <p>My Bugcrowd Id-<a href="https://bugcrowd.com/TH3G3NT3LM3N">TH3G3NT3LM4N</a></p>
 
-<h1>Achievements-26 Hall Of Fame for valid vulnerabilities submissions</h1>
+<p>Achievements-26 Hall Of Fame for valid vulnerabilities submissions</p>
 
 <p> Follow me at <a href="https://www.linkedin.com/in/tushars25">Linkedin</a></p>
-
 
 If you want to contact me, feel free to send me an<a href = "mailto: tushars2517@gmail.com"> Email</a>
 
