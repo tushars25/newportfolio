@@ -1,12 +1,17 @@
 <span id="a">root@TU5H4R</span>:<span id="b">~</span><span id="c">$</span> cd Tushar Verma/About me
 <span id="a">root@TU5H4R</span>:<span id="b">~</span><span id="c">$</span> ~/TU5H4R/about$ cat</br><!--TU5H4R-->aboutme.txt<br/><br/>
-Hello geeks, "<span id="k">This website is under construction</span>".
+Hello geeks, "<span id="k">I am a first year student at Lovely professional University,Phagwara,Punjab,pursuing Btech in Computer Science and Engineering</span>".
 
-Hey There! I am an Ethical Hacker,Bug Bounty Hunter,CTF Player,and Front-End Developer<p>My aim is to obtain a crowning status in the technological industry as an efficient certified ethical hacker</p>
-<p>I am working as security researcher on Bugcrowd</p>
+I am an Ethical Hacker,Bug Bounty Hunter,CTF Player,Pentester and Front-End Developer<p>My aim is to obtain a crowning status in the technological industry as an efficient certified ethical hacker</p>
+<p>I am working as security researcher on Bugcrowd,Hackerone</p>
+
+<p>My Bugcrowd Id-<a href="https://bugcrowd.com/TH3G3NT3LM3N">TH3G3NT3LM4N</a></p>
+
+<h1>Achievements-26 Hall Of Fame for valid vulnerabilities submissions</h1>
+
 <p> Follow me at <a href="https://www.linkedin.com/in/tushars25">Linkedin</a></p>
 
 
-If you want to contact me, feel free to send me an email at <a href = "mailto: tushars2517@gmail.com"> Email</a>
+If you want to contact me, feel free to send me an<a href = "mailto: tushars2517@gmail.com"> Email</a>
 
 <p>Keep Hunting</p>
